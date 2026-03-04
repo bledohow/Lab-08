@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CustomList {
+    // this is a comment to test the github integration
     private List<City> cities;
 
     public CustomList() {
